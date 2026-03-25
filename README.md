@@ -43,9 +43,9 @@ di visualizzazioni* che tale film potrebbe fare
 
 Il progetto espone due modalità di utilizzo principali:
 
-### 🌐 Web Application
+### Web Application
 
-### 🤖 Bot Telegram
+### Bot Telegram
 
 ## Struttura del Progetto
 
